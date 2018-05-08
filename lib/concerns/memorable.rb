@@ -3,7 +3,7 @@ module Memorable
     all.clear
   end
 
-  def count
-    count
+  def count(all)
+    @all.count
   end
 end
